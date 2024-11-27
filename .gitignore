@@ -1,0 +1,12 @@
+.pub/
+/build/
+.pub-cache
+.packages
+*.lock
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.impl
+
+/android/app/build/
+.vscode
